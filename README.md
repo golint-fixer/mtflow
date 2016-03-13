@@ -1,9 +1,7 @@
 mtflow
 ======
 
-[![Build Status](https://travis-ci.org/nataren/mtflow.svg)](https://travis-ci.org/nataren/mtflow)
-
-[![Coverage Status](https://coveralls.io/repos/nataren/mtflow/badge.svg)](https://coveralls.io/r/nataren/mtflow)
+[![Build Status](https://travis-ci.org/MindTouch/mtflow.svg)](https://travis-ci.org/MindTouch/mtflow)
 
 ## Overview
 
